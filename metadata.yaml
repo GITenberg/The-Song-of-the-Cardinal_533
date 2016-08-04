@@ -1,0 +1,29 @@
+_repo: The-Song-of-the-Cardinal_533
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stratton-Porter, Gene
+    birthdate: 1863
+    deathdate: 1924
+    gutenberg_agent_id: '71'
+    url: http://www.gutenberg.org/2009/agents/71
+    wikipedia: http://en.wikipedia.org/wiki/Gene_Stratton_Porter
+description: ''
+gutenberg_bookshelf: Animals-Wild-Birds
+gutenberg_issued: '1996-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '533'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Cardinals (Birds)'
+- !lcsh 'Nature study'
+- !lcc 'QL'
+- !lcsh 'Birds'
+- GITenberg
+title: The Song of the Cardinal
+url: http://www.gutenberg.org/ebooks/533
