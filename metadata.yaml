@@ -1,5 +1,8 @@
 _repo: The-Song-of-the-Cardinal_533
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stratton-Porter, Gene
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/71
     wikipedia: http://en.wikipedia.org/wiki/Gene_Stratton_Porter
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/533#The-Song-of-the-Cardinal
 gutenberg_bookshelf: Animals-Wild-Birds
 gutenberg_issued: '1996-05-01'
 gutenberg_type: Text
